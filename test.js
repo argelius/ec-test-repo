@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
 console.log("Hello, world!");
-console.log("test");
+console.log("bar");
 console.log("Hej hej!");
